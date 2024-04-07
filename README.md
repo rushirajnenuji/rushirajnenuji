@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![](https://hit.yhype.me/github/profile?user_id=19696935)
+
 <!--
 **rushirajnenuji/rushirajnenuji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
